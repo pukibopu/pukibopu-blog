@@ -1,41 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Example Site</title>
-        <link>https://example.com/categories/</link>
-        <description>Recent content in Categories on Example Site</description>
+        <title>Categories on JinJo&#39;s Blog</title>
+        <link>jinjo.xyz/categories/</link>
+        <description>Recent content in Categories on JinJo&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>syntax</title>
-        <link>https://example.com/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/categories/syntax/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>themes</title>
-        <link>https://example.com/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/categories/themes/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 29 Jan 2023 22:22:17 +0800</lastBuildDate><atom:link href="jinjo.xyz/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
-        <link>https://example.com/categories/test/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <link>jinjo.xyz/categories/test/</link>
+        <pubDate>Sun, 29 Jan 2023 22:22:17 +0800</pubDate>
         
-        <guid>https://example.com/categories/test/</guid>
-        <description>&lt;img src="https://example.com/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>jinjo.xyz/categories/test/</guid>
+        <description></description>
         </item>
         <item>
-        <title>Test with whitespaces</title>
-        <link>https://example.com/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <title>随笔</title>
+        <link>jinjo.xyz/categories/%E9%9A%8F%E7%AC%94/</link>
+        <pubDate>Sun, 29 Jan 2023 22:22:17 +0800</pubDate>
         
-        <guid>https://example.com/categories/test-with-whitespaces/</guid>
+        <guid>jinjo.xyz/categories/%E9%9A%8F%E7%AC%94/</guid>
         <description></description>
         </item>
         

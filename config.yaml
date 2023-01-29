@@ -1,26 +1,20 @@
-baseurl: https://example.com
+baseurl: jinjo.xyz
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: JinJo's Blog
 
 languages:
     en:
         languageName: English
-        title: Example Site
-        description: Example description
+        title: JinJo's Blog
+        description: JinJo's Blog
         weight: 1
     zh-cn:
         languageName: 中文
-        title: 演示站点
-        description: 演示说明
+        title: JinJo的博客
+        description: JinJo的博客
         weight: 2
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        description: وصف تجريبي
-        weight: 3
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -57,11 +51,11 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 多看多做
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/avatar.jpg
 
     article:
         math: false
@@ -199,7 +193,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/
           params:
               icon: brand-github
 
